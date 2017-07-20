@@ -37,7 +37,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Asana](https://asana.com/jobs) | San Francisco, CA |
 | [Aspiration Software](http://aspirationsoftware.com/careers/) | Middleburg, VA |
 | [Atomic](https://atomic.vc/careers/) | San Francisco, CA; Waterloo, Canada |
-| [Audience](http://www.audience.com/eng/Our-company/Careers) | Mountain View, CA |
+| [Audience](http://www.audience.com/eng/Our-company/Careers) | Mountain View, CA; Beijing, China; Shanghai, China; Roskilde, Denmark; Itaska, IL; Taiwan | 
 | [August](http://august.com/jobs/#.Vo1p-JMrKHo) | San Francisco, CA |
 | [AutomatedInsights](https://automatedinsights.com/company) | Durham, NC |
 | [Automattic](https://automattic.com/work-with-us/) | San Francisco, CA |
